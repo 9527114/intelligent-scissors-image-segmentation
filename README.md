@@ -1,4 +1,3 @@
-# smart-scissors-image-segmentation
 # Intelligent Scissors Image Segmentation Tool
 
 基于改进 Dijkstra 算法的智能剪刀图像分割工具。项目通过图像梯度构建路径代价图，并结合实时 LiveWire 交互，实现对目标物体边缘的半自动轮廓提取、闭合选区、抠图预览与 PNG 结果保存。
