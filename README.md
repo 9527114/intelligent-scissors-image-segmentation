@@ -118,6 +118,10 @@ java -cp out IntelligentScissorsGUI
 2. 将 `src` 标记为源码目录
 3. 运行 `IntelligentScissorsGUI.java` 中的 `main` 方法
 
+## 实现效果
+<img width="275" height="279" alt="image" src="https://github.com/user-attachments/assets/5cc26e6f-fb2b-4c95-9040-e7f3ffe692b0" />
+
+
 ## 核心亮点
 
 - 使用改进 Dijkstra 算法完成图像边缘最短路径搜索
